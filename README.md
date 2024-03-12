@@ -1,4 +1,4 @@
-# MapMyMajor
+# MapMyMajor by Vihaan Patel
 Web based application : Create and visualize a fully customizable major map for educational programs and degrees.  
 
 User Requirements and app goals : 
